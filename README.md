@@ -8,3 +8,8 @@ This is the official repository of our proposed EfficienTransNet. The significan
 ![Block_Diagram](https://github.com/Chayaneee/EfficienTransNet/blob/main/Figures/REACT_Block_Diagram.pdf)
 
 
+# Data used for Experiments: 
+
+We have used two publicly available datasets for this experiment.
+  - [IU X-ray](https://openi.nlm.nih.gov/)
+  - [MIMIC-CXR](https://physionet.org/content/mimiciii-demo/1.4/)
