@@ -40,3 +40,7 @@ Link to convert Latex to Markdown Table: https://tableconvert.com/latex-to-markd
 |                                 | CvT-DGPT2 2022          | 0.395               | 0.127               | 0.155               | 0.288               | $\textbf{0.379}$      | $\underline{0.390}$ | 0.365             | $\underline{0.418}$ | -                 | -                 |
 |                                 | DCL 2023                       | -                   | 0.109               | 0.150               | 0.284               | 0.281               | 0.373             | $\textbf{0.471}$    | 0.352             | -                 | -                 |
 |                                 | EfficienTransNet                                     | $\underline{0.468}$   | $\underline{0.195}$   | $\underline{0.199}$   | $\underline{0.363}$   | $\underline{0.359}$   | 0.371             | 0.369             | 0.405             | 0.852             | $\underline{0.676}$ |
+
+
+# Qualitative Results
+![Qualitative Results](https://github.com/Chayaneee/EfficienTransNet/assets/54748679/3225b871-b953-4a25-8ae7-d8f60213ecf3)
